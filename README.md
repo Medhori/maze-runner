@@ -5,7 +5,7 @@ A program that generates mazes and looks for a way out.
 This program requires Java to compile and run.
 
 ## Credits
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on Maze Runner project on JetBrains Academy.
 
